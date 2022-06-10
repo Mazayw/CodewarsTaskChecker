@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.cw-name {
+}
+
+.cw-data {
+  display: flex;
+  height: 90wh;
+}
+
+.cw-links {
+  width: 45%;
+  height: 400px;
+}
+
+.cw-result {
+  width: 45%;
+  height: 400px;
+}
